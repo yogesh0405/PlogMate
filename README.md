@@ -10,6 +10,7 @@ The application acts as a digital companion for plogging and social initiatives,
 while enabling volunteers to actively contribute, share experiences, and spread awareness.
 
 
+--
 
 🎯 Problem Statement
 Social organizations often face challenges such as:
@@ -22,12 +23,14 @@ PlogMate addresses these challenges by providing a centralized, interactive, and
 management and participation.
 
 
+--
 
 💡 Solution
 PlogMate bridges the gap between organizations and volunteers by combining campaign management features with social
 interaction capabilities, making social initiatives more engaging, transparent, and impactful.
 
 
+--
 
 🚀 Key Features
 
@@ -58,6 +61,7 @@ interaction capabilities, making social initiatives more engaging, transparent, 
 • Builds a strong sense of community and belonging
 
 
+--
 
 🛠️ Technology Stack
 
@@ -93,6 +97,7 @@ Android Studio – Development environment
 • Multi-language support
 
 
+--
 
 📌 Conclusion
 PlogMate is a technology-driven initiative aimed at empowering social organizations and volunteers by making social 
